@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7f6aa679_bc9ec7c1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 215
+      },
+      "writtenOn": "2022-04-13T12:55:08Z",
+      "side": 1,
+      "message": "Without this commit:\n\n```build/make/core/base_rules.mk:335: error: vendor/nxp/opensource/sn100x/halimpl/SN100x/halimpl/libnxpparser: MODULE.TARGET.SHARED_LIBRARIES.nxp_nci_parser already defined by hardware/nxp/nfc/snxxx/halimpl/libnxpparser.```",
+      "revId": "6306b4dff394a4a4b5c65c2638c772d8ccd28e5a",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
