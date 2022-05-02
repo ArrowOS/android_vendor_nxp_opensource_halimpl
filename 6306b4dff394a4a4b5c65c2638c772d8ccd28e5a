@@ -16,6 +16,23 @@
       "message": "Without this commit:\n\n```build/make/core/base_rules.mk:335: error: vendor/nxp/opensource/sn100x/halimpl/SN100x/halimpl/libnxpparser: MODULE.TARGET.SHARED_LIBRARIES.nxp_nci_parser already defined by hardware/nxp/nfc/snxxx/halimpl/libnxpparser.```",
       "revId": "6306b4dff394a4a4b5c65c2638c772d8ccd28e5a",
       "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f2d40b50_b9fd5473",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 88
+      },
+      "writtenOn": "2022-05-02T04:13:42Z",
+      "side": 1,
+      "message": "https://github.com/ArrowOS/android_vendor_arrow/blob/arrow-12.1/config/BoardConfigSoong.mk#L107",
+      "revId": "6306b4dff394a4a4b5c65c2638c772d8ccd28e5a",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
     }
   ]
 }
